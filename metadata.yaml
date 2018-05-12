@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '36777'
     url: http://www.gutenberg.org/2009/agents/36777
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34107#The-Curry-Cook-s-Assistantor-Curries-How-to-Make-Them-in-England-in-Their-Original-Style
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2010-10-20'
 gutenberg_type: Text
